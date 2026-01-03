@@ -1,0 +1,29 @@
+# Web框架与服务器
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# 数据验证
+pydantic==2.6.1
+
+# 文件上传
+python-multipart
+
+# 数据库连接
+pymysql
+
+# LangChain相关
+langchain==0.1.0
+langchain-community==0.0.20
+langchain-core==0.1.23
+langchain-openai==0.0.6
+
+# 数值计算
+numpy==1.26.4
+
+# 文本嵌入与模型
+sentence-transformers==2.2.2
+transformers==4.40.0
+huggingface_hub==0.23.2
+
+# 阿里灵积(DashScope)
+dashscope==1.14.0
