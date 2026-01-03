@@ -62,7 +62,8 @@ An intelligent e-commerce customer service system based on FastAPI + Vue 3 + Lan
 
 ### 2. Database Initialization
 
-1. Create the database:```sql
+1. Create the database:
+```sql
 CREATE DATABASE smart_mall CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
 ```
 

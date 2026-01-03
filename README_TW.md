@@ -62,7 +62,8 @@
 
 ### 2. 資料庫初始化
 
-1. 創建資料庫：```sql
+1. 創建資料庫：
+```sql
 CREATE DATABASE smart_mall CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
 ```
 
